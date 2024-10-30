@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+  @font-face {
+    font-family: 'japan';
+    src: url(/fonts/JAPAN.ttf);
+  }; 
+  @font-face {
+    font-family: 'japanhollow';
+    src: url(/fonts/Nijikonjapan.ttf);
+  };  @font-face {
+    font-family: 'dm';
+    src: url(/fonts/dm.ttf);
+  };
